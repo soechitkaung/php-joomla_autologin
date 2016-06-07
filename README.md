@@ -1,1 +1,1 @@
-# php-joomla_autologin
+# php-joomla User Auto Login Script
